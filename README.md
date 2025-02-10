@@ -72,5 +72,5 @@ Game Drawn!
 This project is open-source and free to use.
 
 ## Author
-[Sandi Maity](https://github.com/sandimaity)
+[Sandi Maity](https://github.com/iam-sandipmaity)
 
